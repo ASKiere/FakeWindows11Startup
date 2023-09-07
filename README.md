@@ -1,2 +1,3 @@
-# FakeWindows11Startup
-yeah boys i love stealing microsoft code woooo
+# Fake Windows 11 Startup
+Sorry for stealing microsoft code xD
+credit goes to microsoft!!!
